@@ -12,7 +12,7 @@ Hi my name is Roberto Felipe Nhani de Oliveira, i've 17 years old. I'm always lo
 
 >C#, C++, Java, Java Script, HTML, CSS, SQL, PHP,  Angular.
 
-    🧠 "In search of knowledge and humility" 
+    🧠 "In search of knowledge and humility" ☯
     
 Reach me out 👇🏼
 
