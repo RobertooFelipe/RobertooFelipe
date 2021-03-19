@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hey, I'am Roberto Felipe 🌌
 
-<!--
-**RobertooFelipe/RobertooFelipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi my name is Roberto Felipe Nhani de Oliveira, i've 17 years old. I'm always looking for new knowledge, new friendships and new opportunities. I'm studying the integrated high school with IT technical course.
 
-Here are some ideas to get you started:
+🌎 Brazilian
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🔹Softwares 
+>Photoshop, Excel, Word, Power Point, Blender, 3Ds MAX, Unreal Engine 4, NetBeans, Visual Studio, Arduino IDE, SQL Server, VirtualBox, VisualG, XAMPP, Sublime, Notepad++, MySQL, Visual Code, Ionic.
+
+
+#### 🔹Programming languages
+
+>C#, C++, Java, Java Script, HTML, CSS, SQL, PHP,  Angular.
+
+    🧠 "In search of knowledge and humility" 
+    
+Reach me out 👇🏼
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:feliperoberto092@gmail.com)](mailto:feliperoberto092@gmail.com) [![Twitter Badge](https://img.shields.io/badge/-Instagram-blue?style=flat-square&labelColor=blue&logo=twitter&logoColor=white&link=https://www.instagram.com/mlk_robert/?hl=pt-br)](https://www.instagram.com/mlk_robert/?hl=pt-br) 
