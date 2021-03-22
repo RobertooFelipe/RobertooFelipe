@@ -1,6 +1,6 @@
 # Hey, I'am Roberto Felipe 🌌
 
-Hi my name is Roberto Felipe Nhani de Oliveira, i've 17 years old. I'm always looking for new knowledge, new friendships and new opportunities. I'm studying the integrated high school with IT technical course.
+Hi my name is Roberto Felipe Nhani de Oliveira, I've 17 years old. I'm always looking for new knowledge, new friendships and new opportunities. I'm studying the integrated high school with TI technical course.
 
 🌎 Brazilian
 
