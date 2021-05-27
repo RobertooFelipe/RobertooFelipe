@@ -16,4 +16,4 @@ Hi my name is Roberto Felipe Nhani de Oliveira, I've 17 years old. I'm always lo
     
 Reach me out 👇🏼
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:feliperoberto092@gmail.com)](mailto:feliperoberto092@gmail.com) [![Twitter Badge](https://img.shields.io/badge/-Instagram-blue?style=flat-square&labelColor=blue&logo=twitter&logoColor=white&link=https://www.instagram.com/mlk_robert/?hl=pt-br)](https://www.instagram.com/mlk_robert/?hl=pt-br) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:feliperoberto092@gmail.com)](mailto:feliperoberto092@gmail.com) [![Twitter Badge](https://img.shields.io/badge/-Instagram-blue?style=flat-square&labelColor=blue&logo=instagram&logoColor=white&link=https://www.instagram.com/mlk_robert/?hl=pt-br)](https://www.instagram.com/mlk_robert/?hl=pt-br) 
