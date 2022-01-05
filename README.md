@@ -1,4 +1,4 @@
-# Hey, I'am Roberto Felipe 🌌
+# Hey, I'am Roberto Felipe  🌌
 
 Hi my name is Roberto Felipe Nhani de Oliveira, I'm 18 years old and always looking for new knowledge, opportunities and friendships. I'm studying the integrated high school with TI technical course.
 
