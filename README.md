@@ -7,7 +7,7 @@ Hi my name is Roberto Felipe Nhani de Oliveira, I'm 18 years old and always look
 #### 🔹Softwares 
 >Photoshop, Excel, Word, Power Point, Blender, 3Ds MAX, Unreal Engine 4, NetBeans, Visual Studio, Arduino IDE, SQL Server, VirtualBox, VisualG, XAMPP, Sublime, Notepad++, MySQL, Visual Studio Code, Ionic, AdobeXD, Figma, Gimp.
 
-#### 🔹OS knowledge
+#### 🔹OS 
 > Windows
 
 > Linux (Debian Based) -> Ubuntu and Kali
