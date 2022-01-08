@@ -12,7 +12,7 @@ Hi my name is Roberto Felipe Nhani de Oliveira, I'm 18 years old and always look
 
 > Linux (Debian Based) -> Ubuntu and Kali
 
-#### 🔹Programming languages
+#### 🔹Languages
 >C#, C++, Java, Java Script, HTML, CSS, SQL, PHP, Angular, VUE, ReactJS, Python.
 
     🧠 "In search of knowledge and humbleness" ☯
