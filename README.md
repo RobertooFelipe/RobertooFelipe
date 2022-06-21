@@ -21,7 +21,7 @@ Reach me out 👇🏼
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&labelColor=blue&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/roberto-felipe-nhani-de-oliveira-b96a40209/)](https://www.linkedin.com/in/roberto-felipe-nhani-de-oliveira-b96a40209/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:feliperoberto092@gmail.com)](mailto:feliperoberto092@gmail.com) 
-[![Twitter Badge](https://img.shields.io/badge/-Instagram-blue?style=flat-square&labelColor=blue&logo=instagram&logoColor=white&link=https://www.instagram.com/devteam.on/?hl=pt-br)](https://www.instagram.com/devteam.on/?hl=pt-br) 
+[![Twitter Badge](https://img.shields.io/badge/-Instagram-blue?style=flat-square&labelColor=blue&logo=instagram&logoColor=white&link=https://www.instagram.com/devteam.on/)](https://www.instagram.com/devteam.on/) 
 
 
 
