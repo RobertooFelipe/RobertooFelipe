@@ -29,9 +29,8 @@ Hi my name is Roberto Felipe Nhani de Oliveira, I'm 19 years old and always look
     🧠 "In search of knowledge and humbleness" ☯
     
 
-| 📊 Github Stats | 📊 Current Strek  |
-| --- | --- |
-| ![Sachin's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobertooFelipe&show_icons=true&theme=dark&title_color=FFF&text_color=F2E9DB) | [![GitHub Streak](https://streak-stats.demolab.com?user=RobertooFelipe&theme=dark)](https://git.io/streak-stats) |
+
+ ![Sachin's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobertooFelipe&show_icons=true&theme=dark&title_color=FFF&text_color=F2E9DB)  [![GitHub Streak](https://streak-stats.demolab.com?user=RobertooFelipe&theme=dark)](https://git.io/streak-stats) 
     
    
 
