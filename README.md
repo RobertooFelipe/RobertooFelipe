@@ -15,12 +15,12 @@ Hi my name is Roberto Felipe Nhani de Oliveira, I'm 19 years old and always look
   <br>
   
   <div style="display: flex" width="100%">
-   <img align="center" alt="Roberto-React" height="50em" src="https://iconape.com/wp-content/files/ec/371378/svg/371378.svg"> 
-   <img align="center" alt="Roberto-Typescript" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-   <img align="center" alt="Roberto-Js" height="50em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/800px-Unofficial_JavaScript_logo_2.svg.png">
-   <img align="center" alt="Roberto-HTML" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
-   <img align="center" alt="Roberto-CSS" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
-   <img align="center" alt="Roberto-Git" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"> 
+   <img align="center" alt="Roberto-React" height="50px" width="50px" src="https://iconape.com/wp-content/files/ec/371378/svg/371378.svg"> 
+   <img align="center" alt="Roberto-Typescript" height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+   <img align="center" alt="Roberto-Js" height="50px" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/800px-Unofficial_JavaScript_logo_2.svg.png">
+   <img align="center" alt="Roberto-HTML" height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
+   <img align="center" alt="Roberto-CSS" height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
+   <img align="center" alt="Roberto-Git" height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"> 
   </div>      
   
   <br>
